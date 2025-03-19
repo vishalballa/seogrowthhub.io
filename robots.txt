@@ -1,4 +1,4 @@
 User-agent: *
-Allow: /
+Disallow: 
 
-Sitemap: https://vishalballa.github.io/seogrowthhub/sitemap.xml
+Sitemap: https://vishalballa.github.io/seogrowthhub.io/sitemap.xml
